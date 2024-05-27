@@ -19,8 +19,8 @@ sudo mkr plugin install Arthur1/mackerel-plugin-libreswan
 ## Setting for mackerel-agent
 
 ```toml
-[plugin.metrics.palworld]
-command = ["/opt/mackerel-agent/plugins/bin/mackerel-plugin-libreswan", "-password", "admin_password"]
+[plugin.metrics.libreswan]
+command = ["/opt/mackerel-agent/plugins/bin/mackerel-plugin-libreswan"]
 ```
 
 ## Usage
