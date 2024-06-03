@@ -4,6 +4,8 @@ github.com/google/go-cmp v0.6.0 h1:ofyhxvXcZhMsU5ulbFiLKl/XBFqE1GSq7atu8tAmTRI=
 github.com/google/go-cmp v0.6.0/go.mod h1:17dUlkBOakJ0+DkrSSNjCkIjxS6bF9zb3elmeNGIjoY=
 github.com/mackerelio/go-mackerel-plugin v0.1.4 h1:+kyatPMFSoghKd7o9oge1FnDrVknFbiwz5VWdFIgsqY=
 github.com/mackerelio/go-mackerel-plugin v0.1.4/go.mod h1:bau0bZbR1JXiCwDIg880djjttZ/0j885v5k0n+jAS/I=
+github.com/mackerelio/go-mackerel-plugin v0.1.5 h1:8k0xrZd1bllGKfki/ndCdQ1Pe/l8MTetfZP76ejtFt0=
+github.com/mackerelio/go-mackerel-plugin v0.1.5/go.mod h1:c1Y27qQnuMBK6QqLrmW5OcDqMLrUGbPo2KEjZd37DH4=
 github.com/mackerelio/golib v1.2.1 h1:SDcDn6Jw3p9bi1N0bg1Z/ilG5qcBB23qL8xNwrU0gg4=
 github.com/mackerelio/golib v1.2.1/go.mod h1:b8ZaapsHGH1FlEJlCqfD98CqafLeyMevyATDlID2BsM=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
@@ -12,6 +14,8 @@ github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsT
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 golang.org/x/text v0.3.7 h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=
 golang.org/x/text v0.3.7/go.mod h1:u+2+/6zg+i71rQMx5EYifcz6MCKuco9NR6JIITiCfzQ=
+golang.org/x/text v0.15.0 h1:h1V/4gjBv8v9cjcR6+AR5+/cIYK5N/WAgiv4xlsEtAk=
+golang.org/x/text v0.15.0/go.mod h1:18ZOQIKpY8NJVqYksKHtTdi31H5itFRjB5/qKTNYzSU=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v3 v3.0.1 h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=
